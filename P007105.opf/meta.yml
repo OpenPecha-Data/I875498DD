@@ -1,15 +1,16 @@
-id: opecha:P007105
+id: P007105
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12717
   title: ཕྱག་ཆེན་གྱི་ཟིན་བྲིས་སོགས།
-  volume:
+  author: ''
+  volumes:
     b2397f0479cf44fbaa2f120e1c706ffc:
       image_group_id: I1KG13009
       title: Volume 1 of phyag chen gyi zin bris sogs/
       volume_number: 1
       total_pages: 58
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཕྱག་ཆེན་གྱི་ཟིན་བྲིས་སོགས།
   author: ''
